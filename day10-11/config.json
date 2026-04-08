@@ -1,0 +1,12 @@
+{
+    "database": {
+        "host": "db.example.com",
+        "port": 80,
+        "username": "admin",
+        "password": "ssecret"
+    },
+    "api": {
+        "endpoint": "https://api.example.com",
+        "timeout": 30
+    }
+}
